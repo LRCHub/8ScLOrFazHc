@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "JK BOMBER",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2026-02-08T11:50:15.584273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "JK BOMBER",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_JK_BOMBER_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "JK BOMBER",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_JK_BOMBER_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "JK BOMBER (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_JK_BOMBER_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "JK BOMBER  (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_JK_BOMBER_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "JK BOMBER",
+      "artist": "Zutto Mayonaka de Iinoni. (ずっと真夜中でいいのに。)",
+      "has_synced": true,
+      "path": "select/05_JK_BOMBER_Zutto_Mayonaka_de_Iinoni._(ずっと真夜中でいいのに。).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JK BOMBER",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_JK_BOMBER_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
